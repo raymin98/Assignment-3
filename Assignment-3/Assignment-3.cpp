@@ -138,6 +138,8 @@ int main()
     file << "\n" << endl;
 
     file << "---------------------------------Thank You!" << endl;
+    file << "---------------------------------Thank You!" << endl;
+
 
     file.close();
 
